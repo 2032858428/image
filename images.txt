@@ -1,1 +1,1 @@
-https://krcw7aaa.mirror.aliyuncs.com
+goharbor/prepare:v2.12.2
