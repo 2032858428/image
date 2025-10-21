@@ -1,1 +1,1 @@
-prepare:latest
+nginx:1.25
