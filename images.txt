@@ -1,2 +1,1 @@
-gogs
-mysql
+gogs/gogs:latest
